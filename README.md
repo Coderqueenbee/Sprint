@@ -1,2 +1,2 @@
-# Sprint2
+# Sprint
 Repositorio para trabajo de misiontic
